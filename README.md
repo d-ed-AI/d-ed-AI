@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @d-ed-AI
-- 👀 I’m interested in IDK
 
 <!---
 d-ed-AI/d-ed-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
